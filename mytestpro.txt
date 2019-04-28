@@ -219,3 +219,12 @@ Shell
  $ git reset --keep <commit>
 1
  $ git reset --keep <commit>
+
+
+
+
+
+
+
+
+My name Imran
